@@ -12,7 +12,7 @@ Here, a simple approach is used. First, search for white pixels inside the array
 ## Project Environment
 To get start with the project environment, run the following:
 ```
-$ cd RoboND-Ball-Chaser-Robot/catkin_ws
+$ cd /catkin_ws
 $ catkin_make
 $ source devel/setup.bash
 $ roslaunch my_robot world.launch
@@ -26,7 +26,7 @@ Then, setup RViz to visualize the sensor readings. On the left side of RViz, und
   
 Open a new terminal and run the following: 
 ```
-$ cd RoboND-Ball-Chaser-Robot/catkin_ws
+$ cd /catkin_ws
 $ source devel/setup.bash
 $ roslaunch ball_chaser ball_chaser.launch
 ```
