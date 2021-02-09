@@ -1,0 +1,2 @@
+ball_chaser:my_robot
+-DCATKIN_DEVEL_PREFIX=/home/expert/Documents/RoboND-Ball-Chaser-Robot-master/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/expert/Documents/RoboND-Ball-Chaser-Robot-master/catkin_ws/install -G Unix Makefiles
